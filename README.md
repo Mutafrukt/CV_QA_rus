@@ -20,7 +20,7 @@
 - SQL (select from, group by, inner join)
 - DevTools, Jira, Postman, JMeter
 - Git (init, branch, commit, push)
-- Unix (mkdir, touch, nano, rm)
+- Основы unix терминала (mkdir, touch, nano, rm)
 - Основы Java, юнит-тестирование на Java, JaCoCo, GitHub CI
 - Понимание Agile (SDLC, STLC, Scrum, Kanban)
 
