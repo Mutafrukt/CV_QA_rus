@@ -19,7 +19,7 @@
 - Тестирование WEB (клиент-сервер, HTTP)
 - SQL (select from, group by, inner join)
 - DevTools, Jira, Postman, JMeter
-- Git (init, branch, commit, push)
+- Git (init, clone, branch, commit, push, pull)
 - Основы unix терминала (mkdir, touch, nano, rm)
 - Основы Java, юнит-тестирование на Java, JaCoCo, GitHub CI
 - Понимание Agile (SDLC, STLC, Scrum, Kanban)
